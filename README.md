@@ -1,0 +1,2 @@
+# nicecoin
+something
